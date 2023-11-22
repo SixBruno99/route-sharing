@@ -1,0 +1,2 @@
+export const MAP_BOX_KEY = "pk.eyJ1Ijoid29ybGRjb25uZWN0b2ZpY2lhbCIsImEiOiJjbGpmdzgzeXQwNDJ3M2RxdjBsMm1jenhtIn0.Gyb9yuf2-8JG4ojfrSwxOQ";
+// https://api.mapbox.com/directions/v5/mapbox/driving/-47.88,-15.79;-48.00,-15.83?access_token=pk.eyJ1Ijoid29ybGRjb25uZWN0b2ZpY2lhbCIsImEiOiJjbGpmdzgzeXQwNDJ3M2RxdjBsMm1jenhtIn0.Gyb9yuf2-8JG4ojfrSwxOQ
